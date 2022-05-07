@@ -78,12 +78,12 @@ $("#13").val(stored9AM);
 stored9AM = JSON.parse(localStorage.getItem("14"));
 $("#14").val(stored9AM);
 
-stored9AM = JSON.parse(localStorage.getItem("14"));
+stored9AM = JSON.parse(localStorage.getItem("15"));
 $("#15").val(stored9AM);
 
-stored9AM = JSON.parse(localStorage.getItem("15"));
+stored9AM = JSON.parse(localStorage.getItem("16"));
 $("#16").val(stored9AM);
 
-stored9AM = JSON.parse(localStorage.getItem("16"));
+stored9AM = JSON.parse(localStorage.getItem("17"));
 $("#17").val(stored9AM);
 
