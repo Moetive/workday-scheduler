@@ -1,6 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 I created a daily planner using Bootstrap, HTML, JavaScript, CSS, jQuery & Moment.JS
+
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
