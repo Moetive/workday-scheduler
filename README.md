@@ -20,7 +20,7 @@ At the very bottom of the screen, you will find link to the project
 ![workschedulerscreengrab](https://snipboard.io/X3BpLN.jpg)
 ## Link to Deployed Website
 
-[View the working website here!](https://moetive.github.io/Homework-1/)
+[View the working website here!](https://moetive.github.io/workday-scheduler/)
 
 ## Author
 
